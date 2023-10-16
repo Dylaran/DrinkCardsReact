@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: "Brandon Grotesque", "Courier New";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: "Brandon Grotesque", source-code-pro, Menlo, Monaco, Consolas,
+    "Courier New", monospace;
+}

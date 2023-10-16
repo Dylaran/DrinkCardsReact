@@ -1,0 +1,79 @@
+/* Single page application */
+.app {
+  min-height: 100vh;
+}
+
+/* Mobile background */
+@media (min-width: 360px) {
+  .app {
+    background: #282c34 url("./Assets/Images/bg_mobile.jpg");
+  }
+}
+
+/* Tablet background */
+@media (min-width: 768px) {
+  .app {
+    background: #282c34 url("./Assets/Images/bg_tablet.jpg");
+  }
+}
+
+/* Desktop background */
+@media (min-width: 1200px) {
+  .app {
+    background: #282c34 url("./Assets/Images/bg_desktop.jpg");
+  }
+}
+
+/* Logo */
+.app-logo {
+  padding: 30px 0 0 30px;
+}
+
+/* Entire header */
+.app-header {
+  text-align: center;
+  align-items: center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+/* Title */
+.title {
+  font-family: "Writable Story";
+}
+
+/* Description */
+.description {
+  width: 50%;
+  word-break: break-all;
+  font-size: 20px;
+}
+
+/* Body */
+.app-body {
+  margin: 0 50px 0 50px;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 20px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #d6dee1;
+  border-radius: 20px;
+  border: 6px solid transparent;
+  background-clip: content-box;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #a8bbbf;
+}

@@ -1,0 +1,98 @@
+/* Exit icon */
+.exit-icon {
+  position: fixed;
+  top: 0;
+  right: 0;
+  margin: 25px 25px 0 0;
+  cursor: pointer;
+  z-index: 1;
+}
+
+/* Modal */
+.modal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  right: auto;
+  bottom: auto;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  background-color: #1f1f1f;
+  border-radius: 10px;
+  outline: none;
+  width: 50%;
+  min-width: 320px;
+  height: 75vh;
+  padding: 30px;
+  color: white;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+/* Modal background */
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+/* Modal title (drink name) */
+.modal-title {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  font-family: "Writable Story";
+  font-size: 70px;
+  margin: 25px;
+  justify-content: center;
+}
+
+/* Section headers */
+.modal-section-title {
+  font-size: 21px;
+  font-weight: bold;
+  letter-spacing: 0.1rem;
+  margin-left: 20px;
+}
+
+/* Ingredients list type */
+.ingredients-list {
+  list-style-type: circle;
+  font-size: 16px;
+}
+
+/* Section break */
+.section-break {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  margin: 20px 20px;
+}
+
+/* How to prepare */
+.prepare-section {
+  margin: 15px 20px 0 20px;
+}
+
+.prepare-pair {
+  display: grid;
+  grid-template-columns: 80px auto;
+  margin-bottom: 10px;
+  line-height: 25px;
+}
+
+.prepare-left {
+  letter-spacing: 0.2rem;
+  float: left;
+}
+
+/* Mocktail section */
+.mocktail-text {
+  margin: 15px 20px 0 20px;
+}
+
+/* Glass section */
+.glass-text {
+  margin: 15px 20px 0 20px;
+}

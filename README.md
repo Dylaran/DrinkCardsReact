@@ -4,7 +4,7 @@ Don Nakashima
 
 10/15/2023
 
-8 hours
+6 hours + some hours setting up github pages / writing tests
 
 ### Instructions
 

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/DrinkCardsReact/static/css/main.9fad0d04.css",
+    "main.css": "/DrinkCardsReact/static/css/main.cddb0996.css",
     "main.js": "/DrinkCardsReact/static/js/main.dc05b202.js",
     "static/media/bg_desktop.jpg": "/DrinkCardsReact/static/media/bg_desktop.d9fd148b4101f2bab7d6.jpg",
     "static/media/Writable-Story.ttf": "/DrinkCardsReact/static/media/Writable-Story.1fb9a4d4b50bb01c16b4.ttf",
@@ -15,11 +15,11 @@
     "static/media/logo.svg": "/DrinkCardsReact/static/media/logo.23b0cfb445d2f1873d308b7c5a0d8279.svg",
     "index.html": "/DrinkCardsReact/index.html",
     "static/media/exit_icon.svg": "/DrinkCardsReact/static/media/exit_icon.ad7c38bdeadbe44a16828b3a828dbff7.svg",
-    "main.9fad0d04.css.map": "/DrinkCardsReact/static/css/main.9fad0d04.css.map",
+    "main.cddb0996.css.map": "/DrinkCardsReact/static/css/main.cddb0996.css.map",
     "main.dc05b202.js.map": "/DrinkCardsReact/static/js/main.dc05b202.js.map"
   },
   "entrypoints": [
-    "static/css/main.9fad0d04.css",
+    "static/css/main.cddb0996.css",
     "static/js/main.dc05b202.js"
   ]
 }

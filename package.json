@@ -1,5 +1,6 @@
 {
   "name": "my-app",
+  "homepage": "https://dylaran.github.io/DrinkCardsReact/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -44,6 +45,7 @@
     ]
   },
   "devDependencies": {
-    "@types/react-modal": "^3.16.1"
+    "@types/react-modal": "^3.16.1",
+    "gh-pages": "^6.0.0"
   }
 }
